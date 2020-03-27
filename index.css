@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+body {
+    background-color: #ffd3b6;
+}
+.card {
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    background-color: #ffffff;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px 2px #aaa;
+    margin: 10px auto;
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+.cardText {
+    text-align: center;
+    padding-left: 15px;
+    font-family: 'Poiret One', cursive;
+    font-size: 400;
+}
+a {
+    text-decoration: none;
+    color: antiquewhite;
+    background-color: #e983aa;
+    border: 1px solid black;
+    padding: 8px 16px;
+}
+.cardTittle {
+    font-family: 'Satisfy', cursive;
+}
+
